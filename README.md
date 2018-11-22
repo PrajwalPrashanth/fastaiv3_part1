@@ -1,6 +1,6 @@
 # fastaiv3_part1
 ## Fastai | International Fellowship Live | Part1 | Deep Learning
----
+
 This repo contains my notes of Fast.ai's international fellowship live version 3, currently avaialable live only to participants but will be available as MOOC in Jan'19.
 
 Thank you Jeremey Howard, Rachel Thomas and all fastai contributors for the course, library, your time to make the knowledge accessible for all for free and for this oppurtunity.
